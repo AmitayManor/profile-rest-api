@@ -132,6 +132,10 @@ dmypy.json
 ### Vagrant Patch ###
 *.box
 
+### User-specific and Misc Exclusions ###
+id_rsa_new
+id_rsa_new.pub
+
 # End of https://www.gitignore.io/api/python,vagrant
 eb-package.zip
 static/
